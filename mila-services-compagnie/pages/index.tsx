@@ -4,6 +4,9 @@ import Image from 'next/image';
 import { Header } from '../components/Header';
 import { ThreeColumn } from '../components/ThreeColumn';
 import { Card } from '../components/Card';
+import { Testimonials } from '../components/Testimonials';
+import { Contact } from '../components/Contact';
+import { Footer } from '../components/Footer';
 
 const Home: NextPage = () => {
 	return (
@@ -18,6 +21,12 @@ const Home: NextPage = () => {
 			<ThreeColumn />
 
 			<Card />
+
+			<Testimonials />
+
+			<Contact />
+
+			<Footer />
 		</div>
 	);
 };
