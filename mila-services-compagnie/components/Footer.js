@@ -4,7 +4,7 @@ const navigation = {
 		{ name: 'Accueil', href: '/' },
 		{ name: 'Professionel', href: '/pro' },
 		{ name: 'Particulier', href: '/particulier' },
-		{ name: 'Nous contacter', href: '/contact' },
+		// { name: 'Nous contacter', href: '/contact' },
 	],
 	social: [
 		{

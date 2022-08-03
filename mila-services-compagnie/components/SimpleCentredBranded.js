@@ -10,7 +10,7 @@ export function SimpleCentredBranded() {
 					<p>Contactez-nous</p>
 				</h2>
 				<a
-					href="#"
+					href="mailto:delphin@milaservicescompagnies.fr"
 					className="mt-8 w-full inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-secondary-700 bg-white hover:bg-indigo-50 sm:w-auto"
 				>
 					Nous contacter

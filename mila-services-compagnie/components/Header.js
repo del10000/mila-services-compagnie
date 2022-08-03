@@ -7,7 +7,7 @@ const navigation = [
 	{ name: 'Accueil', href: '/' },
 	{ name: 'Professionnel', href: '/pro' },
 	{ name: 'Particulier', href: '/particulier' },
-	{ name: 'Nous contacter', href: '#' },
+	// { name: 'Nous contacter', href: '/contact' },
 ];
 
 export function Header() {
