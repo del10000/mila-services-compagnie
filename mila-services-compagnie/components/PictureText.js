@@ -11,7 +11,7 @@ export function PictureText() {
 								<div className="h-96 w-96 shadow-xl overflow-hidden">
 									<img
 										className="lg:absolute rounded-2xl inset-0 right-0 h-full w-full object-cover"
-										src="./assets/testimonial.png"
+										src="./assets/testimonial.jpg"
 										alt=""
 									/>
 								</div>

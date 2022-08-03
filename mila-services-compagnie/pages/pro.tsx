@@ -10,6 +10,7 @@ const Pro: NextPage = () => {
 		<div>
 			<Head>
 				<title>Mila Services Compagnie | Professionel</title>
+				<link rel="icon" href="/assets/logo-icon.svg" />
 			</Head>
 
 			<Navbar />

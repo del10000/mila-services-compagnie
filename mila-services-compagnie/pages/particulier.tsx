@@ -9,6 +9,7 @@ const Particulier: NextPage = () => {
 		<div>
 			<Head>
 				<title>Mila Services Compagnie | Particilier</title>
+				<link rel="icon" href="/assets/logo-icon.svg" />
 			</Head>
 
 			<Navbar />

@@ -41,7 +41,7 @@ export function Card() {
 								<div className="aspect-w-10 aspect-h-6 sm:aspect-w-2 sm:aspect-h-1 lg:aspect-w-1">
 									<img
 										className="object-cover object-center rounded-3xl shadow-2xl"
-										src="./assets/trott1.png"
+										src="./assets/trott1.jpg"
 										alt=""
 									/>
 								</div>
@@ -54,7 +54,7 @@ export function Card() {
 									className="text-3xl font-extrabold text-primary-500"
 									id="join-heading"
 								>
-									Découvrez nos offres particuliers
+									Découvrez nos offres professionnelles
 								</h2>
 								<p className="text-lg text-white">
 									<span className="inline-flex">
@@ -64,17 +64,12 @@ export function Card() {
 									<br />
 									<span className="inline-flex">
 										<CheckIcon className="h-6 w-6 mr-3 text-primary-500" />{' '}
-										Accessoires de sécurité
-									</span>
-									<br />
-									<span className="inline-flex">
-										<CheckIcon className="h-6 w-6 mr-3 text-primary-500" />{' '}
-										Livraison & récupération à domicile
+										Initiation à la mobilité urbaine
 									</span>
 								</p>
 								<a
-									className="block w-full py-3 px-5 text-center bg-white border border-transparent rounded-md shadow-md text-base font-medium text- hover:bg-gray-50 sm:inline-block sm:w-auto"
-									href="#"
+									className="block w-full py-3 px-5 text-center bg-white border border-transparent rounded-md shadow-md text-base font-medium text-black hover:bg-gray-50 sm:inline-block sm:w-auto"
+									href="/pro"
 								>
 									En savoir plus
 								</a>
@@ -100,7 +95,7 @@ export function Card() {
 								<div className="aspect-w-10 aspect-h-6 sm:aspect-w-2 sm:aspect-h-1 lg:aspect-w-1">
 									<img
 										className="object-cover object-center rounded-3xl shadow-2xl"
-										src="./assets/trott2.png"
+										src="./assets/trott2.jpg"
 										alt=""
 									/>
 								</div>
@@ -133,7 +128,7 @@ export function Card() {
 								</p>
 								<a
 									className="block w-full py-3 px-5 text-center bg-white border border-transparent rounded-md shadow-md text-base font-medium text- hover:bg-gray-50 sm:inline-block sm:w-auto"
-									href="#"
+									href="/particulier"
 								>
 									En savoir plus
 								</a>

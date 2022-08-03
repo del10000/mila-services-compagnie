@@ -12,7 +12,7 @@ const Home: NextPage = () => {
 		<div>
 			<Head>
 				<title>Mila Services Compagnie | Accueil</title>
-				<link rel="icon" href="/favicon.ico" />
+				<link rel="icon" href="/assets/logo-icon.svg" />
 			</Head>
 
 			<Header />
