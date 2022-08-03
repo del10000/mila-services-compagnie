@@ -17,7 +17,7 @@ export function PictureText() {
 								</div>
 							</div>
 						</div>
-						<div className="px-4 max-w-xl mx-auto sm:px-6 lg:py-16 lg:max-w-none lg:mx-0 lg:px-0">
+						<div className="px-4 max-w-xl mx-auto sm:px-6 lg:max-w-none lg:mx-0 lg:px-0">
 							{/* Content area */}
 							<div className="">
 								<h2 className="text-3xl pb-10 text-gray-900 font-extrabold tracking-tight sm:text-4xl">
@@ -118,7 +118,7 @@ export function PictureText() {
 			<div className="relative bg-white pt-16 overflow-hidden">
 				<div className="relative">
 					<div className="lg:mx-auto lg:max-w-7xl lg:px-8 lg:grid lg:grid-cols-2 lg:grid-flow-col-dense lg:gap-12 flex flex-col-reverse ">
-						<div className="px-4 max-w-xl py-10 mx-auto sm:px-6 lg:py-16 lg:max-w-none lg:mx-0 lg:px-0">
+						<div className="px-4 max-w-xl mx-auto sm:px-6 lg:max-w-none lg:mx-0 lg:px-0">
 							{/* Content area */}
 							<div className="">
 								<h2 className="text-3xl pb-10 text-gray-900 font-extrabold tracking-tight sm:text-4xl">
@@ -172,7 +172,7 @@ export function PictureText() {
 								</div>
 							</div>
 						</div>
-						<div className="relative px-4 max-w-xl md:mx-auto sm:px-6 lg:py-16 lg:max-w-none lg:mx-0 lg:px-0">
+						<div className="relative px-4 max-w-xl md:mx-auto sm:px-6 lg:py-16 mb-16 lg:mb-0 lg:max-w-none lg:mx-0 lg:px-0">
 							<div className="flex justify-center md:mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:px-0 lg:max-w-none">
 								<div className="h-96 lg:w-96 shadow-xl overflow-hidden">
 									<img
